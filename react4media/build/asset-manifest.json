@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38a57092.css",
+    "main.js": "/static/js/main.b0be89bb.js",
+    "static/js/453.dc66fd3c.chunk.js": "/static/js/453.dc66fd3c.chunk.js",
+    "static/media/05.OsiPellama.mp3": "/static/media/05.OsiPellama.3a9396b8b04446e3213d.mp3",
+    "static/media/04.YedhakiOkaGaayam.mp3": "/static/media/04.YedhakiOkaGaayam.263eba6e90fce33afaea.mp3",
+    "static/media/KushiTrailer.mp4": "/static/media/KushiTrailer.0c827a3b5a722004a240.mp4",
+    "static/media/02.Aradhya.mp3": "/static/media/02.Aradhya.306c34d81233356ea2dc.mp3",
+    "static/media/01.NaRojaNuvve.mp3": "/static/media/01.NaRojaNuvve.6adeaff435c8da27ba35.mp3",
+    "static/media/03.Kushi.mp3": "/static/media/03.Kushi.bd4b9afb672b1269dec8.mp3",
+    "static/media/kushipposter.jpeg": "/static/media/kushipposter.c6d88d934e30ec7d93aa.jpeg",
+    "index.html": "/index.html",
+    "main.38a57092.css.map": "/static/css/main.38a57092.css.map",
+    "main.b0be89bb.js.map": "/static/js/main.b0be89bb.js.map",
+    "453.dc66fd3c.chunk.js.map": "/static/js/453.dc66fd3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a57092.css",
+    "static/js/main.b0be89bb.js"
+  ]
+}
